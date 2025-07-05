@@ -40,7 +40,9 @@ nav a {
 }
 
 
-
+.gitely {
+    border: 10px solid black;
+}
 
 footer {
     background-color: rgb(0, 0, 0);
